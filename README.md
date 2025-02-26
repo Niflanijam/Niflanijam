@@ -13,8 +13,11 @@ Web Developer & Enthusiast 🚀 | Building Projects & Learning New Things 💻
 
 ## Pinned Projects
 
-- **Attendance Management System-using-QR:** A university project built with JavaScript and QR code technology.
-- **Nifla-s-Portfolio:** My personal portfolio website.
+-**Juice Bar Website**: A dynamic and interactive website for a juice bar, developed using the MERN stack (MongoDB, Express.js, React, Node.js).
+-**RenalWise**: A healthcare platform for kidney symptom checking using Chatbot, community support, and donor matching, developed with Django, SQL, and JavaScript.
+-**Attendance Management System Using QR**: A university project built with HTML, CSS, JavaScript, MongoDB, Node.js, and Express.js for efficient attendance tracking using QR code technology.
+-**Nifla’s Portfolio**: My personal portfolio website showcasing my projects and skills.
+-**Sri Lanka Tourism Landing Page**: An informative and visually appealing landing page featuring various locations in Sri Lanka, designed with HTML, CSS, JavaScript, and Bootstrap.
 
 ## About Me
 
