@@ -1,8 +1,8 @@
 # Hi, I'm Nifla! 👋
-
+<center>
 ![Learning](image/download.jpeg)
 Web Developer & Enthusiast 🚀 | Building Projects & Learning New Things 💻
-
+</center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niflanijam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
