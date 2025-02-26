@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Nifla! 👋
 
-<!--
-**Niflanijam/Niflanijam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer & Enthusiast 🚀 | Building Projects & Learning New Things 💻
 
-Here are some ideas to get you started:
+[![Niflanijam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niflanijam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niflanijam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/n-f-nifla-73b702309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Niflanijam) | [Instagram](https://www.instagram.com/niflanijam?igsh=MTdhc2xmaDVhNzcydw==)
+
+## Pinned Projects
+
+- **Attendance Management System-using-QR:** A university project built with JavaScript and QR code technology.
+- **Nifla-s-Portfolio:** My personal portfolio website.
+
+## About Me
+
+I am a web developer passionate about building innovative and user-friendly web applications. I enjoy learning new technologies and contributing to open-source projects.
+
+## Skills
+
+- HTML, CSS, JavaScript
+- React Js
+- NodeJs
+- MongoDB
+- MySql
+- Java
+## Contact
+
+fathimanifla1118@gmail.com
