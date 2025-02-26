@@ -1,7 +1,7 @@
 # Hi, I'm Nifla! 👋
-<center>
-  ![My Profile Picture](image/download.jpeg)
-</center>
+<div style="text-align: center;">
+  ![new](image/download.jpeg)
+</div>
 Web Developer & Enthusiast 🚀 | Building Projects & Learning New Things 💻
 
 
