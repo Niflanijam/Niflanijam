@@ -1,6 +1,6 @@
 # Hi, I'm Nifla! 👋
 
-![Learning](images/download.jpeg)
+![Learning](image/download.jpeg)
 Web Developer & Enthusiast 🚀 | Building Projects & Learning New Things 💻
 
 
