@@ -5,7 +5,7 @@
 Web Developer & Enthusiast 🚀 | Building Projects & Learning New Things 💻
   ![new](image/download.jpeg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niflanijam&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niflanijam&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 
