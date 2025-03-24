@@ -36,6 +36,16 @@ I am a web developer passionate about building innovative and user-friendly web 
 - MongoDB
 - MySql
 - Java
+- docker
+- git Hub
+- Jira
+- Agile
+- ASP.Net
+- C#
+- Expressjs
+- Bootstrap
+- ReactBootstrap
+  
 ## Contact
 
 fathimanifla1118@gmail.com
